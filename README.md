@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreeya%20S%20Tapaswi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=2nd%20Year%20Dual%20Degree%20Student%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreeya%20S%20Tapaswi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=52" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+things+that+solve+real+problems;Machine+Learning+%7C+Data+Analytics+%7C+NLP;C%2B%2B+%7C+Python+%7C+Django+%7C+FastAPI;Data+Analyst+%7C+Dual+Degree+Student+%7C+Full-Stack+Dev;Certified+in+ML+%26+Quantum+Computing" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+things+that+solve+real+problems;Machine+Learning+%7C+Data+Analytics+%7C+NLP;C%2B%2B+%7C+Python+%7C+Django+%7C+FastAPI;Data+Analyst+%7C+AI%2FML+%7C+Full-Stack+Dev;Certified+in+ML+%26+Quantum+Computing" alt="Typing SVG" /></a>
 
 <br/>
 
