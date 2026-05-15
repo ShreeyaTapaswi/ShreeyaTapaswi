@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreeya%20S%20Tapaswi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreeya%20S%20Tapaswi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=2nd%20Year%20Dual%20Degree%20Student%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=52" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+things+that+solve+real+problems;Machine+Learning+%7C+Data+Analytics+%7C+NLP;C%2B%2B+%7C+Python+%7C+Django+%7C+FastAPI;Data+Analyst+%7C+ML+Engineer+%7C+Full-Stack+Dev;Certified+in+ML+%26+Quantum+Computing" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+things+that+solve+real+problems;Machine+Learning+%7C+Data+Analytics+%7C+NLP;C%2B%2B+%7C+Python+%7C+Django+%7C+FastAPI;Data+Analyst+%7C+Dual+Degree+Student+%7C+Full-Stack+Dev;Certified+in+ML+%26+Quantum+Computing" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 ```yaml
 name: Shreeya S Tapaswi
-role: ML Engineer | Data Analyst | Full-Stack Developer
+role: 2nd Year Dual Degree Student | Data Analyst | Full-Stack Developer
 passion: Building things that solve real problems
 currently_building: Military Logistics Optimization System (ML + Blockchain)
 learning: MLOps, Quantum Computing, Advanced NLP
@@ -120,10 +120,10 @@ ML model for **predicting solar energy output** based on weather patterns and hi
 <tr>
 <td width="50%">
 
-### 💬 NLP Comment Classifier
-**Natural Language Processing** pipeline for classifying and filtering user comments. Multi-class sentiment and toxicity classification using transformer models.
+### 💬 [Comment Category Prediction](https://github.com/ShreeyaTapaswi/Comment-Category-Prediction)
+**Natural Language Processing** pipeline for classifying and filtering user comments. Multi-class toxicity classification using deep learning (MLP) and ensemble models.
 
-`Python` `NLP` `Transformers` `Classification`
+`Python` `NLP` `MLP` `Scikit-Learn`
 
 </td>
 <td width="50%">
