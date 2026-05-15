@@ -38,6 +38,7 @@ fun_fact: I think in algorithms and dream in Python 🐍
 
 **Languages**
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -63,14 +64,17 @@ fun_fact: I think in algorithms and dream in Python 🐍
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**DevOps & Tools**
+**DevOps, Tools & Databases**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -90,7 +94,7 @@ fun_fact: I think in algorithms and dream in Python 🐍
 </td>
 <td width="50%">
 
-### 🔍 RAG-based Financial Fraud Detection
+### 🔍 [RAG-based Financial Fraud Detection](https://github.com/ShreeyaTapaswi/RAG-based-Financial-Fraud-Detection)
 **Retrieval-Augmented Generation** pipeline for detecting financial fraud patterns. Combines LLM reasoning with vector search for intelligent anomaly detection.
 
 `Python` `LangChain` `RAG` `NLP`
@@ -109,7 +113,7 @@ End-to-end **inventory & production optimization** system for manufacturing work
 </td>
 <td width="50%">
 
-### ☀️ Solar Energy Prediction
+### ☀️ [Solar Energy Prediction](https://github.com/ShreeyaTapaswi/Solar-Energy-Prediction)
 ML model for **predicting solar energy output** based on weather patterns and historical data. Helps optimize renewable energy grid planning and distribution.
 
 `Python` `Scikit-Learn` `Time Series` `Forecasting`
@@ -128,7 +132,7 @@ ML model for **predicting solar energy output** based on weather patterns and hi
 </td>
 <td width="50%">
 
-### 🎓 Student Activity & Credit Portal
+### 🎓 [Student Activity & Credit Portal](https://github.com/ShreeyaTapaswi/PASC-CCA-Backend)
 Full-stack web portal for **tracking student co-curricular activities** and credit allocation. Built as part of PASC college committee management.
 
 `TypeScript` `React` `Django` `PostgreSQL`
