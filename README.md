@@ -94,7 +94,7 @@ fun_fact: I think in algorithms and dream in Python 🐍
 </td>
 <td width="50%">
 
-### 🔍 [RAG-based Financial Fraud Detection](https://github.com/ShreeyaTapaswi/RAG-based-Financial-Fraud-Detection)
+### 🔍 RAG-based Financial Fraud Detection
 **Retrieval-Augmented Generation** pipeline for detecting financial fraud patterns. Combines LLM reasoning with vector search for intelligent anomaly detection.
 
 `Python` `LangChain` `RAG` `NLP`
@@ -113,7 +113,7 @@ End-to-end **inventory & production optimization** system for manufacturing work
 </td>
 <td width="50%">
 
-### ☀️ [Solar Energy Prediction](https://github.com/ShreeyaTapaswi/Solar-Energy-Prediction)
+### ☀️ Solar Energy Prediction
 ML model for **predicting solar energy output** based on weather patterns and historical data. Helps optimize renewable energy grid planning and distribution.
 
 `Python` `Scikit-Learn` `Time Series` `Forecasting`
@@ -132,7 +132,7 @@ ML model for **predicting solar energy output** based on weather patterns and hi
 </td>
 <td width="50%">
 
-### 🎓 [Student Activity & Credit Portal](https://github.com/ShreeyaTapaswi/PASC-CCA-Backend)
+### 🎓 Student Activity & Credit Portal
 Full-stack web portal for **tracking student co-curricular activities** and credit allocation. Built as part of PASC college committee management.
 
 `TypeScript` `React` `Django` `PostgreSQL`
