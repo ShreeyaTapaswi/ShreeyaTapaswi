@@ -21,10 +21,10 @@
 
 ```yaml
 name: Shreeya S Tapaswi
-role: 2nd Year Dual Degree Student | Data Analyst | Full-Stack Developer
+role: Computer Engineering Undergrad @ PICT | Data Science @ IIT Madras
 passion: Building things that solve real problems
+specialization: Specialized in NLP, multi-class text analytics, and machine learning pipelines.
 currently_building: Military Logistics Optimization System (ML + Blockchain)
-learning: MLOps, Quantum Computing, Advanced NLP
 fun_fact: I think in algorithms and dream in Python 🐍
 ```
 
@@ -49,6 +49,7 @@ fun_fact: I think in algorithms and dream in Python 🐍
 **ML / AI / Data Analytics**
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -86,12 +87,23 @@ fun_fact: I think in algorithms and dream in Python 🐍
 <tr>
 <td width="50%">
 
+### 💬 [Comment Category Prediction](https://github.com/ShreeyaTapaswi/Comment-Category-Prediction)
+**Natural Language Processing** pipeline for classifying and filtering user comments. Multi-class toxicity classification using deep learning (MLP) and ensemble models.
+
+`Python` `NLP` `MLP` `Scikit-Learn`
+
+</td>
+<td width="50%">
+
 ### 🎖️ [Military Logistics Optimization](https://github.com/ShreeyaTapaswi/Military-Logistics-Optimization-and-Prediction-System-using-ML-and-Blockchain)
 **ML + Blockchain** powered logistics prediction system for military operations. Full-stack Django app with demand forecasting, route optimization & blockchain-based supply chain tracking.
 
 `Python` `Django` `Scikit-Learn` `MySQL` `Selenium`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🔍 RAG-based Financial Fraud Detection
@@ -100,9 +112,6 @@ fun_fact: I think in algorithms and dream in Python 🐍
 `Python` `LangChain` `RAG` `NLP`
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🏭 [Manufacturing Inventory Optimization](https://github.com/ShreeyaTapaswi/Optimization-of-Manufacturing-Inventory-and-Production)
@@ -111,23 +120,15 @@ End-to-end **inventory & production optimization** system for manufacturing work
 `Python` `ML` `Data Analysis` `Optimization`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### ☀️ Solar Energy Prediction
 ML model for **predicting solar energy output** based on weather patterns and historical data. Helps optimize renewable energy grid planning and distribution.
 
 `Python` `Scikit-Learn` `Time Series` `Forecasting`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💬 [Comment Category Prediction](https://github.com/ShreeyaTapaswi/Comment-Category-Prediction)
-**Natural Language Processing** pipeline for classifying and filtering user comments. Multi-class toxicity classification using deep learning (MLP) and ensemble models.
-
-`Python` `NLP` `MLP` `Scikit-Learn`
 
 </td>
 <td width="50%">
@@ -139,6 +140,7 @@ Full-stack web portal for **tracking student co-curricular activities** and cred
 
 </td>
 </tr>
+
 </table>
 
 <details>
