@@ -8,48 +8,66 @@
 
 <br/>
 
-I am an engineering student navigating the intersection of core system software and rigorous predictive analytics. My academic framework bridges foundational computer engineering with advanced machine learning execution, with a strong focus on building scalable architectures for real-world data pipelines.
+I am a second-year dual-degree student pursuing computer engineering and data science. My focus is on solving real-world problems through AI-driven systems, with strong foundations in Machine Learning, NLP, data structures, algorithms, and OOP.
 
 ## 🎓 Education
 
-* **B.E. in Computer Engineering** — *Pune Institute of Computer Technology (PICT)*
+* **B.Tech in Computer Engineering** — *Pune Institute of Computer Technology (PICT)*
+  * **CGPA:** 9.97 / 10.0
+  * **Honors:** Gold Medalist (Ranked 1st in First Year across the entire college)
 * **B.S. in Data Science and Applications** — *Indian Institute of Technology (IIT) Madras*
+  * **CGPA:** 9.33 / 10.0 (Foundational Level: 9.63 / 10.0)
+* **Secondary & Higher Secondary** — *Maharashtra State Board*
+  * **Class XII:** 94.50% | **Class X:** 98.20% | **MHT-CET:** 99.53 percentile
 
-## 🔬 Research Interests & Core Focus
+## 🔬 Research Interests
 
-* **Natural Language Processing (NLP):** Multi-class text analytics, sentiment extraction, and transformer-based pipelines.
-* **Data Pipeline Engineering:** Handling multimodal data streams, automated preprocessing, and feature engineering.
-* **MLOps & Systems:** Real-time ML execution, API deployment, and integrating models into lightweight client-side applications (e.g., Chrome Extensions).
+* **Natural Language Processing (NLP):** Toxicity classification, text normalization, and handling extreme class imbalances.
+* **Predictive Analytics:** Ensemble modeling, financial fraud detection, and environmental parameter forecasting.
+* **Core CS:** High-performance algorithms and system software.
 
 ---
 
-## 🚀 Selected Research & Engineering Projects
+## 🚀 Selected Projects
 
-### 1. [Comment-Category-Prediction](https://github.com/ShreeyaTapaswi/Comment-Category-Prediction)
-An end-to-end NLP classification pipeline that ingests unstructured online discussion text, preprocesses linguistic noise, and maps categorical markers using multi-class ML architectures. **Currently scaling this architecture into a live Chrome Extension** to execute real-time textual analysis directly from active browser frames via a local API.
-* *Technologies:* Python, Scikit-Learn, NLTK, Pandas, NumPy
+### [Comment Category Prediction](https://github.com/ShreeyaTapaswi/Comment-Category-Prediction)
+*Python, NLP, Machine Learning, Scikit-learn, LightGBM*
+* Built an NLP-based toxicity classification system for **198K online comments** across 4 categories using EDA, TF-IDF, and feature engineering.
+* Trained and optimized 5 ML models with a weighted ensemble approach, improving Violent-class F1 from 30% to **65.99%** despite severe class imbalance.
+* Achieved **82.02% Macro F1** and **90.71% accuracy** through probability calibration.
 
-### 2. [Military Logistics Optimization & Prediction](https://github.com/ShreeyaTapaswi/Military-Logistics-Optimization-and-Prediction-System-using-ML-and-Blockchain)
-Engineered an ML and Blockchain-powered logistics prediction system optimized for military operations. Designed demand forecasting models and route optimization algorithms to ensure secure, verifiable supply chain tracking across distributed nodes.
-* *Technologies:* Python, Django, Scikit-Learn, MySQL, Selenium
+### SAR Narrative Generator with Audit Trail
+*Machine Learning, VS-Code*
+* Built and optimized an ensemble ML pipeline (**Isolation Forest, XGBoost**, rule-based methods) to accurately detect suspicious financial alerts and reduce false positives.
+* Implemented intelligent alert classification and deduplication using time-window and event-based logic.
 
-### 3. RAG-based Financial Fraud Detection
-Developed a Retrieval-Augmented Generation (RAG) pipeline designed for detecting nuanced financial fraud patterns. The architecture combines Large Language Model (LLM) reasoning with highly-optimized vector search for intelligent anomaly detection within high-density financial ledgers.
-* *Technologies:* Python, LangChain, LLMs, NLP, Vector Databases
+### Solar Energy Prediction
+*Python, Scikit-Learn, Matplotlib*
+* Implemented a supervised learning model to predict solar energy output based on environmental parameters.
+* Performed EDA using Pandas and Matplotlib to identify key correlations.
 
 ---
 
 ## 🧰 Technical Ecosystem
 
-* **Languages:** Python, JavaScript, TypeScript, C++
-* **Data & Machine Learning:** PyTorch, Scikit-Learn, Pandas, NumPy, NLTK, LangChain
-* **Deployment & Systems:** Flask, Django, FastAPI, Docker, Git, Chrome Extension Architecture (Manifest V3)
-* **Databases:** PostgreSQL, MySQL, MongoDB
+* **Core CS Fundamentals:** Data Structures & Algorithms, Software Engineering, Database Management Systems, Object-Oriented Programming
+* **Programming Languages:** C, C++, Python, HTML/CSS
+* **Data Science:** ML Pipelining, Model Training, Exploratory Data Analysis, Pandas, NumPy, Matplotlib, Ensembling
+* **Tools:** Git/GitHub, VS Code, Google Colab, Excel (Advanced)
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Honors
 
-* **Supervised Machine Learning: Regression & Classification** — *Stanford University / Coursera*
-* **IBM Qiskit: Quantum Computing** — *IBM*
-* **Advanced Algorithms & Data Structures** — *Certified*
+* **Supervised Machine Learning: Regression & Classification** — *Stanford / Coursera*
+* **Advanced Learning Algorithms** — *Stanford / Coursera*
+* **IBM Qiskit** — *Certified in Building Quantum Intuition using Qiskit*
+* **State Merit Rank:** Ranked 1st in Maharashtra (HSC Vocational) & 100/100 in Mathematics.
+
+---
+
+## 🤝 Leadership & Community
+
+* **Student Outreach and Activities Lead** — Pulzion’25 (PICT ACM Flagship Event)
+* **AI-ML Tutor to 7th Graders** — Community Engagement at PICT Model School
+* **Volunteer** — CTiS 2025 National Conference at IISER, Pune
