@@ -16,7 +16,7 @@ I am a second-year dual-degree student navigating the intersection of core syste
   * **CGPA:** 9.97 / 10.0
   * **Honors:** Gold Medalist (Ranked 1st in First Year across the entire college)
 * **B.S. in Data Science and Applications** — *Indian Institute of Technology (IIT) Madras*
-  * **CGPA:** 9.33 / 10.0 (Foundational Level: 9.63 / 10.0)
+  * **CGPA:** 9.25 / 10.0 (Foundational Level: 9.63 / 10.0)
 
 ## 🔬 Research Interests
 
