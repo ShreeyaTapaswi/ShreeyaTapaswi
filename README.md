@@ -10,13 +10,13 @@
 
 I am a second-year dual-degree student navigating the intersection of core system software and rigorous predictive analytics. My academic framework bridges foundational computer engineering with advanced machine learning execution. I am actively seeking research internships where I can apply AI-driven systems to complex, real-world problems.
 
-## 🎓 Education
+##  Education
 
 * **B.Tech in Computer Engineering** — *Pune Institute of Computer Technology (PICT)*
   * **CGPA:** 9.97 / 10.0
   * **Honors:** Gold Medalist (Ranked 1st in First Year across the entire college)
 
-## 🔬 Research Interests
+## Research Interests
 
 * **Natural Language Processing (NLP):** Multi-class text analytics, toxicity classification, and handling extreme class imbalances.
 * **Data Pipeline Engineering:** Handling multimodal data streams and automated preprocessing.
@@ -24,7 +24,7 @@ I am a second-year dual-degree student navigating the intersection of core syste
 
 ---
 
-## 🚀 Selected Research Projects
+## Selected Research Projects
 
 ### [Comment-Category-Prediction](https://github.com/ShreeyaTapaswi/Comment-Category-Prediction)
 An end-to-end NLP classification pipeline that ingests unstructured online discussion text, preprocesses linguistic noise, and maps categorical markers using multi-class ML architectures. **Currently scaling this architecture into a live Chrome Extension** to execute real-time textual analysis directly from active browser frames via a local API.
@@ -38,7 +38,7 @@ An end-to-end NLP classification pipeline that ingests unstructured online discu
 
 ---
 
-## 🧰 Technical Ecosystem
+## Technical Ecosystem
 
 * **Languages:** Python, JavaScript, TypeScript, C++, C
 * **Data & ML:** PyTorch, Scikit-Learn, Pandas, NumPy, NLTK, LangChain
@@ -46,7 +46,7 @@ An end-to-end NLP classification pipeline that ingests unstructured online discu
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 * **Supervised Machine Learning: Regression & Classification** — *Stanford / Coursera*
 * **IBM Qiskit** — *Certified in Building Quantum Intuition using Qiskit*
