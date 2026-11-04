@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student+@+PICT;NLP+%26+Machine+Learning+Enthusiast;Aspiring+AI+Researcher;Gold+Medalist+%7C+CGPA+9.97;Always+Learning+New+Things&center=true&width=480&height=45)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Student;Developer;Researcher;Learner;NLP+%26+Machine+Learning+Enthusiast;Problem+Solver;Gold+Medalist+%7C+CGPA+9.97;Always+Learning+New+Things&center=true&width=480&height=45)
 
-🎓 **Student | Researcher | ML Developer**
+🎓 **Student | Developer | Researcher | Learner | ML Enthusiast**
 
 **I bridge core system software and rigorous predictive analytics, applying AI-driven systems to complex, real-world problems.**
 
