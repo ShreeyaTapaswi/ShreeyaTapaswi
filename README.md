@@ -1,128 +1,51 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shreeya%20Tapaswi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20ML%20%7C%20Blockchain%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="Shreeya Tapaswi, Developer, ML, Blockchain" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpkZTkyNzgyMS0wMmI3LTQ4OTktYTE3MC1lYzk3ZDA0ZTI4YWIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKMcu/oA0ELcuUnRFU0lhj0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyNWM1ZWZlOS0zYTNhLTRkYzgtOTJlZi1mMDQ3MTIxZGY3Y2FscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoIGqzlZ81XYeT6KBq3BrI1AAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg4KAlGxWVB8whQgN+0H0LcQhln/i0MtSkf29iRHUiBzukZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaOZqeQhaTh9GFF93z1OK8kwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCD2SgHcv5kb70jJyU7j+jsegwbUdDs+IaoNwpvyr+ut1WRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjZZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmRlOTI3ODIxLTAyYjctNDg5OS1hMTcwLWVjOTdkMDRlMjhhYi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjA3ZWUzNDhhLTAyNTAtNDA4ZC05MjcxLTMxYTY4NGMwMDZmYXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDgoCUbFZUHzCFCA37QfQtxCGWf+LQy1KR/b2JEdSIHO6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggW0aYssA4vRkYPHlTEVnI5Dcc3ScsEwEJYAH2D7NtX9miY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggISGx4UN8fcZ0f/SD4Apg58+INKLuM3/TdiE0faAw0Kd0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQIp3ez94F5Sxn9rDpRsDQIBiVprU400JkyYv9PuRIXW1pI+dDFFhhFZM/eveA4312t2YZRgKXmSdlbvbq2Wkppg=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#36bcf7"/>
+      <stop offset="100%" stop-color="#8957e5"/>
+    </linearGradient>
+  </defs>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-stack+%2B+ML+%2B+Blockchain;I+build+across+the+stack+🚀;Dual+degree+%40+PICT+%26+IIT+Madras" alt="Typing SVG" />
-</p>
+  <rect width="900" height="240" rx="16" fill="url(#bg)"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shreeya-s-tapaswi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/PICT-CGPA%209.94-2ea44f?style=for-the-badge&logo=academia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IIT%20Madras-CGPA%209.27-b22222?style=for-the-badge&logo=academia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pune%2C%20India-📍-informational?style=for-the-badge"/>
-</p>
+  <!-- decorative dots -->
+  <g fill="#ffffff" opacity="0.08">
+    <circle cx="80" cy="40" r="30"/>
+    <circle cx="840" cy="200" r="46"/>
+    <circle cx="800" cy="50" r="14"/>
+  </g>
 
-<br>
+  <!-- name -->
+  <text x="450" y="98" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">
+    Shreeya Tapaswi
+    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+  </text>
 
-<p align="center">
-  🎓 CE @ PICT + Data Science @ IIT Madras &nbsp;•&nbsp; 👑 Vice Chair @ PASC-W &nbsp;•&nbsp; 🔭 Open to internships
-</p>
+  <!-- accent line -->
+  <rect x="350" y="116" width="200" height="4" rx="2" fill="url(#accent)">
+    <animate attributeName="width" values="0;200" dur="1.2s" fill="freeze"/>
+    <animate attributeName="x" values="450;350" dur="1.2s" fill="freeze"/>
+  </rect>
 
----
+  <text x="450" y="152" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#cfe8f3" letter-spacing="2">
+    DEVELOPER  •  ML  •  BLOCKCHAIN  •  PROBLEM SOLVER
+  </text>
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,postgres,mongodb,flask,fastapi,pytorch,sklearn,pandas,numpy,aws,git&perline=7" />
-</p>
-
-<p align="center">
-  <sub>Also: spaCy · SciPy · Kafka · Spark · OpenSearch · Blockchain · Chrome Extensions (MV3)</sub>
-</p>
-
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/ShreeyaTapaswi/Comment-Category-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShreeyaTapaswi&repo=Comment-Category-Prediction&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ShreeyaTapaswi/ResumeLens-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShreeyaTapaswi&repo=ResumeLens-AI&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ShreeyaTapaswi/NeuralLedger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShreeyaTapaswi&repo=NeuralLedger&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ShreeyaTapaswi/Fall-Detection-For-Elderly">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShreeyaTapaswi&repo=Fall-Detection-For-Elderly&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ShreeyaTapaswi/PASC-CCA-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShreeyaTapaswi&repo=PASC-CCA-Platform&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ShreeyaTapaswi/Drone-Delivery-Optimisation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShreeyaTapaswi&repo=Drone-Delivery-Optimisation&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ShreeyaTapaswi/Military-Logistics-Optimization-and-Prediction-System-using-ML-and-Blockchain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShreeyaTapaswi&repo=Military-Logistics-Optimization-and-Prediction-System-using-ML-and-Blockchain&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ShreeyaTapaswi/Blockchain-Academic-Certificate-Verification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShreeyaTapaswi&repo=Blockchain-Academic-Certificate-Verification&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🌐_Full_Stack-1f6feb?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🤖_ML_&_NLP-8957e5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/⛓️_Blockchain-d29922?style=flat-square"/>
-  <img src="https://img.shields.io/badge/👁️_Computer_Vision-da3633?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🧮_Optimization-2ea043?style=flat-square"/>
-</p>
-
----
-
-<h2 align="center">🏆 Highlights</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🥇_PICT_Gold_Medalist-Rank_1-gold?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/👑_AlgoQueen_2026-Global_Rank_313-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💡_PASC_Ideathon-Winner-orange?style=for-the-badge"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🎓_Stanford_ML_Specialization-8C1515?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚛️_IBM_Qiskit-0f62fe?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/👩‍🏫_AI_Tutor_50%2B_students-2ea44f?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShreeyaTapaswi&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShreeyaTapaswi&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreeyaTapaswi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShreeyaTapaswi&theme=tokyonight&hide_border=true"/>
-</p>
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreeyaTapaswi&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</p>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreeyaTapaswi/ShreeyaTapaswi/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreeyaTapaswi/ShreeyaTapaswi/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/ShreeyaTapaswi/ShreeyaTapaswi/output/github-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShreeyaTapaswi&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+  <!-- rotating tagline -->
+  <g font-family="Consolas, 'Courier New', monospace" font-size="19" fill="#36bcf7" text-anchor="middle">
+    <text x="450" y="195" opacity="0">&gt; building across the full stack
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.30;0.35;1" dur="9s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="450" y="195" opacity="0">&gt; turning messy data into real-time systems
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.30;0.35;1" dur="9s" begin="3s" repeatCount="indefinite"/>
+    </text>
+    <text x="450" y="195" opacity="0">&gt; PICT + IIT Madras | open to internships
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.30;0.35;1" dur="9s" begin="6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
