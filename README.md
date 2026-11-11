@@ -26,14 +26,6 @@ shreeya@pict:~$ ./open_to --internships
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
-<h2 align="center">📈 By the Numbers</h2>
-
-<p align="center">
-  <img src="assets/stats.svg" width="100%" alt="9.94 CGPA, 198K comments classified, 90.7% accuracy, 1000+ students, AlgoQueen rank 313"/>
-</p>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
-
 <h2 align="center">🧠 What I Build</h2>
 
 ```mermaid
@@ -55,23 +47,6 @@ mindmap
     Algorithms
       A* + Genetic Algorithm
       Clustering & outliers
-```
-
-<h2 align="center">⚙️ How I Ship</h2>
-
-```mermaid
-flowchart LR
-    A[🗂️ Messy data] --> B[🔍 EDA & imbalance handling]
-    B --> C[🤖 Model / ensemble]
-    C --> D[⚡ Flask / FastAPI]
-    D --> E[🧩 Chrome extension]
-    D --> F[🌐 Web app]
-    style A fill:#1f6feb,color:#fff,stroke:none
-    style B fill:#8957e5,color:#fff,stroke:none
-    style C fill:#da3633,color:#fff,stroke:none
-    style D fill:#2ea043,color:#fff,stroke:none
-    style E fill:#d29922,color:#fff,stroke:none
-    style F fill:#d29922,color:#fff,stroke:none
 ```
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
@@ -153,32 +128,6 @@ flowchart LR
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
-<h2 align="center">🔬 Under the Hood</h2>
-
-A few of the ideas behind my projects, because the interesting part is usually the math.
-
-**ResumeLens AI** scores a résumé against a job description with a weighted blend of skill and keyword overlap:
-
-$$\text{Match} = 0.75 \cdot S_{\text{skills}} + 0.25 \cdot K_{\text{keywords}}$$
-
-**Comment Category Prediction** uses macro-F1 as the main metric, so rare classes count as much as common ones:
-
-$$F_1^{\text{macro}} = \frac{1}{C}\sum_{c=1}^{C} F_{1,c}$$
-
-> [!TIP]
-> Balanced class weights and extra weight on the rare *Violent* class (under 3% of the data) lifted its F1 from **30% to 66%**.
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
-
-<h2 align="center">🗺️ Roadmap</h2>
-
-- [x] Ship an NLP model as a real-time Chrome extension
-- [x] Build a blockchain-based verification system
-- [x] Build a RAG pipeline on Amazon Bedrock
-- [x] Co-create a pose-based computer-vision system
-- [ ] Land a software / ML / blockchain internship 🎯
-- [ ] Contribute to more open-source projects
-
 <h2 align="center">🏆 Recognition</h2>
 
 <p align="center">
@@ -212,17 +161,6 @@ $$F_1^{\text{macro}} = \frac{1}{C}\sum_{c=1}^{C} F_{1,c}$$
 </details>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShreeyaTapaswi/ShreeyaTapaswi/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="Profile details"/>
-  <img src="https://raw.githubusercontent.com/ShreeyaTapaswi/ShreeyaTapaswi/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShreeyaTapaswi/ShreeyaTapaswi/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most committed language"/>
-  <img src="https://raw.githubusercontent.com/ShreeyaTapaswi/ShreeyaTapaswi/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats"/>
-</p>
 
 <h2 align="center">🎖️ GitHub Achievements</h2>
 
